@@ -1,0 +1,20 @@
+
+
+body{
+    background-image: url(/snow.jpg);
+    background-size: cover;
+    
+    
+}
+
+.countdown-container {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 61px;
+    flex-wrap: wrap;
+}
+
+p{
+    font-family: sans-serif;
+}
